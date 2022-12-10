@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
 
-      <Typography style={{ color: '#c94aef', marginTop: '20px' }} variant="h3" gutterBottom>
+      <Typography style={{ color: '#c94aef', marginTop: '20px' }} variant="h4" gutterBottom>
         Test React Pdf
       </Typography>
 
